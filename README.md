@@ -1,0 +1,1 @@
+Exercises from working through the [Rust Async Book](https://rust-lang.github.io/async-book/).
